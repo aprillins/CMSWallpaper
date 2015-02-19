@@ -9,3 +9,8 @@ Fitur yang akan tersedia adalah sebagai berikut, yaitu:
 * File yang di ambil masih berwujud database (temporary), agar tidak memberatkan server klo harus selalu nge-grab semua gambar. jadi gambar yang di ambil adalah gambar yang di select saja. 
 * Fitur resize gambar agar meta gambar berubah.
 * Reference : https://www.youtube.com/watch?v=64l0k6d0_ak
+
+|   No.  |             Task           |    Status     |
+|:------:|:--------------------------:|:-------------:|
+|   1.   |  Create login page         |  DONE         |
+|   2.   |                            |               |
