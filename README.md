@@ -10,7 +10,10 @@ Fitur yang akan tersedia adalah sebagai berikut, yaitu:
 * Fitur resize gambar agar meta gambar berubah.
 * Reference : https://www.youtube.com/watch?v=64l0k6d0_ak
 
-|   No.  |             Task           |    Status     |
-|:------:|:--------------------------:|:-------------:|
-|   1.   |  Create login page         |  DONE         |
+## Tasks
+Ini adalah list yang harus dikerjakan
+
+|   No.  |             Task           | Date Listed   | Date Committed
+|:------:|:--------------------------:|:-------------:|:-------------:|
+|   1.   |  Create login page         |  19-02-2015         | 20-02-2015
 |   2.   |                            |               |
