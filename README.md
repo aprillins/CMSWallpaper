@@ -26,4 +26,4 @@ Ini adalah list yang harus dikerjakan
 | 9. | Create table: user | 25-02-2015 |
 |10. | Create controller to authenticate at login page | 25-02-2015 |
 |11. | Create view/interface for frontpage | 25-02-2015 |
-
+|12. | Create auto suggest at search image page | 25-02-2015 |
