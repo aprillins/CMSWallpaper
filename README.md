@@ -20,4 +20,10 @@ Ini adalah list yang harus dikerjakan
 | 3. | Create search result page | 21-02-2015 | 22-02-2015
 | 4. | Added capability click to enlarge image| 22-02-2015 | 22-02-2015
 | 5. | Create table: post, category, image | 24-02-2015 | 25-02-2015
-| 6. | | |
+| 6. | Create controller to create, edit, update, and delete (CRUD) post table data | 25-02-2015 |
+| 7. | Create controller to CRUD category table data | 25-02-2015 |
+| 8. | Create controller to CRUD image table data | 25-02-2015 |
+| 9. | Create table: user | 25-02-2015 |
+|10. | Create controller to authenticate at login page | 25-02-2015 |
+|11. | Create view/interface for frontpage | 25-02-2015 |
+
