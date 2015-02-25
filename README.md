@@ -16,7 +16,8 @@ Ini adalah list yang harus dikerjakan
 |   No.  |             Task           | Date Listed   | Date Committed
 |:------:|:--------------------------:|:-------------:|:-------------:|
 |   1.   |  Create login page         |  19-02-2015         | 20-02-2015
-|   2.   |                            |               |
-| 4. | | |
-| 5. | | |
+|   2.   |  Create search image page   |  20-02-2015 | 21-02-2015
+| 3. | Create search result page | 21-02-2015 | 22-02-2015
+| 4. | Added capability click to enlarge image| 22-02-2015 | 22-02-2015
+| 5. | Create table: post, category, image | 24-02-2015 | 25-02-2015
 | 6. | | |
